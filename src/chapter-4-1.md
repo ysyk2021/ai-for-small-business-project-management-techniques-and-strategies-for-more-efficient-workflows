@@ -1,5 +1,4 @@
-Overview of AI Tools and Technologies for Small Business Project Management
-==========================================================================================================================================================================
+
 
 In this chapter, we will provide an overview of AI tools and technologies that can be used for small business project management.
 

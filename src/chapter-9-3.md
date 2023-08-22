@@ -1,5 +1,4 @@
-Legal and regulatory considerations for AI implementation in small business project management
-=========================================================================================================================================================================
+
 
 As small businesses increasingly turn to Artificial Intelligence (AI) to streamline their workflows and improve efficiency, it is essential to consider the legal and regulatory implications of AI implementation. In this chapter, we will explore the legal and regulatory considerations that small businesses should keep in mind when implementing AI in project management.
 

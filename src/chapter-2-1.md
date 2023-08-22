@@ -1,5 +1,4 @@
-Definition of AI-Powered Project Management
-=============================================================================================================
+
 
 In this chapter, we will define AI-powered project management and discuss the benefits it can provide to small businesses.
 

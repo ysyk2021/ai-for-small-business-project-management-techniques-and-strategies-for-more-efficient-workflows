@@ -1,5 +1,4 @@
-Assessing the Effectiveness of AI for Small Business Project Management
-============================================================================================================================================
+
 
 In this chapter, we will discuss the importance of measuring the impact of AI technology on small business project management and assessing its effectiveness.
 

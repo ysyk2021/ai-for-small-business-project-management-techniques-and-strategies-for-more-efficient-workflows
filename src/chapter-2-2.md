@@ -1,5 +1,4 @@
-Types of AI Used for Project Management
-=========================================================================================================
+
 
 In this chapter, we will discuss the different types of AI that can be used for project management. Understanding the types of AI available can help small businesses choose the best solution to meet their project management needs.
 

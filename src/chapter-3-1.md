@@ -1,5 +1,4 @@
-Assessing Your Project Management Needs and Goals
-==================================================================================================================================
+
 
 In this chapter, we will discuss the importance of assessing your project management needs and goals when preparing for AI implementation in small business project management.
 

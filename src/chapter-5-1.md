@@ -1,5 +1,4 @@
-Importance of Data Collection and Analysis for Small Business Project Management
-========================================================================================================================================================================
+
 
 In this chapter, we will discuss the importance of data collection and analysis for small business project management.
 

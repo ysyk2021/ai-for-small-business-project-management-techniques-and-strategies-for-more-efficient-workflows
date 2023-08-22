@@ -1,5 +1,4 @@
-Chapter 8: AI Ethics and Governance for Small Business Project Management
-=========================================================================
+
 
 As small businesses increasingly adopt AI technologies, it is important to consider the ethical implications of their use. In this chapter, we will explore some best practices for ensuring responsible AI use and developing governance frameworks.
 

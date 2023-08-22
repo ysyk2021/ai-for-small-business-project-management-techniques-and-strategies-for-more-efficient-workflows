@@ -1,5 +1,4 @@
-Chapter 7: Measuring AI Impact on Small Business Project Management
-===================================================================
+
 
 In this chapter, we will discuss how to measure the impact of AI technology on small business project management and continuously adapt and improve AI approaches.
 
