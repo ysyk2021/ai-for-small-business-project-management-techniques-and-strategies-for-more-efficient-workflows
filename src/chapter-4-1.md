@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an overview of AI tools and technologies that can be used for small business project management.
 
 AI-Powered Project Management Software

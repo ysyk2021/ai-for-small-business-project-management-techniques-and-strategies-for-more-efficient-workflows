@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly adopt AI technology in their project management processes, it is important to consider the ethical and governance implications of this adoption. Ethical considerations are critical to ensure that AI is used responsibly and does not cause harm. In this chapter, we'll discuss the importance of AI ethics and governance for small business project management and explore strategies for developing governance frameworks to ensure responsible AI use.
 
 The Importance of AI Ethics and Governance

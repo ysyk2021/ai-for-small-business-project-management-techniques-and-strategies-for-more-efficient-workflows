@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the use of AI in small business project management. We'll define AI-powered project management, discuss the types of AI used for project management, and explore the benefits of AI for improving workflow efficiency in small businesses.
 
 Definition of AI-Powered Project Management

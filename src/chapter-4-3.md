@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss how small businesses can choose the right AI tools and technologies for project management and provide case studies of successful AI implementations in small business project management.
 
 Choosing the Right AI Tools and Technologies

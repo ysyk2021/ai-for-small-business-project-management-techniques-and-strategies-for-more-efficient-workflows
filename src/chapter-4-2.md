@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss key factors that small businesses should consider when choosing AI tools and technologies for project management.
 
 The Specific Needs of the Project Management Process
