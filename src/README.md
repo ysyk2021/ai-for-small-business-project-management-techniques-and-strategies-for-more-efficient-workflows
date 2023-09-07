@@ -8,3 +8,7 @@ This book, "AI for Small Business Project Management: Techniques and Strategies 
 Through this book, readers will gain a deeper understanding of how AI can be used to optimize their workflows, improve team coordination, and achieve greater success in their respective markets. With practical guidance, real-world examples, and expert insights, this book will serve as an invaluable resource for small businesses looking to stay ahead of the curve and achieve their goals through the power of AI technologies.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
