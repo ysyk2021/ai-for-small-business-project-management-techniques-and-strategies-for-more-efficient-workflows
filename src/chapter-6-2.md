@@ -1,5 +1,4 @@
-Chapter: Best Practices for AI Implementation in Areas Such as Task Allocation, Progress Tracking, and Resource Optimization
-============================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
